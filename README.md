@@ -1,1 +1,1 @@
-# Javascript tutotal
+# Javascript tutorial
