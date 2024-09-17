@@ -5,10 +5,10 @@
 
 # Solution code
 
-## project 1
+## project 1 FIROZ
 
 ```javascript
-console.log("firoz")
+console.log("firoz ")
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
